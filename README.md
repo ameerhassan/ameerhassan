@@ -53,6 +53,11 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 * **Key Features:** Low-level binary packet decoder with XOR checksum validation, reactive 60 FPS oscilloscope waveform charts using `fl_chart`, industrial metric gauges (temperature, fill level, battery life, RSSI), and an integrated Virtual Hardware Simulator for zero-hardware evaluation.
 * **Stack:** Flutter, Dart, BLoC 9.x, FL Chart, BLE GATT Architecture, Nordic nRF52840, GitHub Actions CI.
 
+### 4. [🛡️ GeoGuard Field Security (Native Android Kotlin & Jetpack Compose)](https://github.com/ameerhassan/geoguard-field-security)
+> Enterprise anti-fraud field workforce verification system with mock-location defense and geodesic geofencing.
+* **Key Features:** Multi-vector mock location detector (API 31+ `isMock`, teleportation velocity filter, Null Island filter), geodesic Haversine boundary validator, offline Room DB persistence, StateFlow reactive architecture, and modern Jetpack Compose Material 3 dark dashboard with live attack simulation controls.
+* **Stack:** Kotlin, Jetpack Compose, Coroutines, StateFlow, Room Database, Material 3, JUnit 4, GitHub Actions CI.
+
 ---
 
 ## 💼 Industry Experience Snapshot
