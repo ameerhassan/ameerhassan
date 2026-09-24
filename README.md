@@ -48,6 +48,11 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 * **Key Features:** Monorepo architecture containing Flutter mobile client and Node.js/Express backend API. Dual-token JWT security with session rotation, offline batch order synchronization, Stripe webhook event listener, real-time Firebase FCM push notifications, and 1-command Docker Compose deployment.
 * **Stack:** Flutter, Node.js 20, Express, Docker Compose, Firebase FCM, Stripe, Dio.
 
+### 3. [📡 PulseSense IoT Suite (Industrial BLE Sensor Telemetry Engine)](https://github.com/ameerhassan/pulsesense-iot-suite)
+> Real-time Bluetooth Low Energy (BLE) sensor telemetry monitoring & provisioning suite for Nordic nRF52840 hardware.
+* **Key Features:** Low-level binary packet decoder with XOR checksum validation, reactive 60 FPS oscilloscope waveform charts using `fl_chart`, industrial metric gauges (temperature, fill level, battery life, RSSI), and an integrated Virtual Hardware Simulator for zero-hardware evaluation.
+* **Stack:** Flutter, Dart, BLoC 9.x, FL Chart, BLE GATT Architecture, Nordic nRF52840, GitHub Actions CI.
+
 ---
 
 ## 💼 Industry Experience Snapshot
