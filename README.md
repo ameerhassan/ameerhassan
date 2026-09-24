@@ -1,0 +1,80 @@
+# Ameer Hassan 👋
+### Senior Mobile Software Engineer & Full-Stack Architect
+**Flutter (Dart) &bull; Native Android (Kotlin/Java) &bull; Node.js Microservices &bull; Cloud Infrastructure**
+
+Lahore, Pakistan &bull; Available for Remote & On-Site Global Engagements
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ameeerhassan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameeerhassan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct%20Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.link/a1f8au)
+[![Email](https://img.shields.io/badge/Email-ameerhassan1992%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ameerhassan1992@gmail.com)
+[![Meta Certified](https://img.shields.io/badge/Meta%20Certified-Android%20Developer-0668E1?logo=meta&logoColor=white)](https://coursera.org/verify/V82XXF648NBV)
+
+---
+
+## 🚀 Executive Summary
+
+Senior Mobile Software Engineer with **9+ years of commercial development experience**, specializing in architecting resilient, production-grade mobile applications and distributed backend microservices. Proven track record across **Banking & FinTech**, **FMCG Sales Distribution**, and **Industrial IoT Telemetry**. 
+
+- 📱 **Production App Store Delivery:** Successfully designed and published **5+ cross-platform mobile apps** end-to-end across the **Apple App Store** and **Google Play Store**.
+- 🏦 **FinTech & Mobile Banking:** Engineered secure offline-first transaction processing (EIBL Microfinance Bank), cutting loan turnaround cycles from 7 to 5 days with zero data discrepancy.
+- ⚡ **Full-Stack Microservices:** Designed high-throughput Node.js / Express microservices with automated JWT token rotation, Stripe webhook synchronization, and Docker containerization.
+- 📶 **Offline-First Resilience:** Deep expertise in local encrypted persistence (SQLite, Room DB, Hive), optimistic UI updates, and conflict-free background synchronization.
+
+---
+
+## 🛠️ Technical Competencies
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile Client** | **Flutter SDK**, **Dart (3.x)**, **Kotlin**, **Android SDK**, Java, Swift, Android Jetpack, Coroutines |
+| **Architecture & State** | **Clean Architecture** (Uncle Bob), **BLoC / Cubit**, **GetX**, Provider, Repository Pattern, Dependency Injection (GetIt) |
+| **Backend & Microservices** | **Node.js**, **Express.js**, RESTful API Architecture, JSON Web Services, Middleware, WebSockets |
+| **Cloud & DevOps** | **Firebase** (FCM Push Notifications, Firestore, Realtime DB, Auth), **AWS** (EC2, S3), **Docker**, GitHub Actions CI/CD |
+| **Security & Payments** | **JWT Authentication with Token Rotation**, OAuth 2.0, SSL Pinning, Biometric KYC (Anti-Spoofing), Stripe, RevenueCat |
+| **Persistence & Database** | **SQLite**, **Hive**, **Room DB**, SharedPreferences, Offline-First Sync Engines |
+| **Quality & Tooling** | `mocktail`, `bloc_test`, Flutter DevTools (Memory profiling, 60 FPS tuning), GitFlow, Postman |
+
+---
+
+## 🌟 Featured Open-Source Showcases
+
+### 1. [🏦 Flutter Enterprise Clean Architecture (Banking & FinTech Core)](https://github.com/ameerhassan/flutter-enterprise-clean-architecture)
+> A commercial-grade reference architecture for mission-critical banking and financial applications.
+* **Key Features:** Strict Clean Architecture (Presentation, Domain, Data, Core), BLoC 9.x state management, thread-safe Dio `QueuedInterceptor` for automatic 401 token refresh queues, encrypted offline persistence with background retry, and comprehensive unit tests with `bloc_test`.
+* **Stack:** Flutter 3.x, Dart 3.x, BLoC, Dio, GetIt, Mocktail, GitHub Actions CI.
+
+### 2. [📦 DistroHub Suite (Enterprise Full-Stack Distribution Portal)](https://github.com/ameerhassan/fullstack-flutter-nodejs-portal)
+> Full-stack mobile distribution and merchant ordering platform connecting cross-platform mobile clients with scalable Node.js microservices.
+* **Key Features:** Monorepo architecture containing Flutter mobile client and Node.js/Express backend API. Dual-token JWT security with session rotation, offline batch order synchronization, Stripe webhook event listener, real-time Firebase FCM push notifications, and 1-command Docker Compose deployment.
+* **Stack:** Flutter, Node.js 20, Express, Docker Compose, Firebase FCM, Stripe, Dio.
+
+---
+
+## 💼 Industry Experience Snapshot
+
+* **Senior Software Engineer (Mobile Architecture)** &bull; *Mezan Beverages* (12/2025 – Present)  
+  *Architecting nationwide sales & distribution applications (NLW, ORRBIS, DistroEase) for 500+ daily active sales officers with ML Kit facial biometric anti-spoofing and offline sync.*
+* **Lead Full-Stack Mobile & Cloud Solutions Architect** &bull; *Grambix* (2024 – 2026)  
+  *Delivered cross-platform Flutter application with Node.js/Express backend microservices on AWS EC2, RevenueCat subscription billing, and dual app store deployment.*
+* **Senior Flutter Developer (Enterprise & IoT)** &bull; *Evyol Group* (09/2023 – 12/2025)  
+  *Built consumer-facing Hello Evyol app in Flutter & BLoC (App Store + Play Store), integrated warehouse barcode dispatch with SAP ERP REST APIs, slashing stock errors by 50%.*
+* **Senior Mobile Software Engineer (Flutter & IoT)** &bull; *SmartEnds* (03/2023 – 11/2025)  
+  *Migrated legacy IoT fleet apps to Flutter (40% maintenance savings) and developed BrighterBins BLE sensor provisioning app (99.9% transmission accuracy).*
+* **Senior Mobile Consultant (Banking Systems)** &bull; *Abacus Consulting* (05/2021 – 04/2023)  
+  *Architected EIBL Microfinance Mobile Banking solution with encrypted offline SQLite persistence and biometric KYC, reducing loan turnaround cycles from 7 to 5 days.*
+
+---
+
+## 🏆 Verified Credentials
+
+* **Meta Certified Android Mobile Application Developer** &mdash; *Meta (Coursera)* &bull; [Verify Credential (ID: V82XXF648NBV)](https://coursera.org/verify/V82XXF648NBV)
+* **Red Hat Linux Certification** &mdash; *Enterprise Linux Systems & Administration*
+* **AutoCAD Engineering Certification** &mdash; *Peak Solutions*
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/ameeerhassan](https://linkedin.com/in/ameeerhassan)
+- 💬 **WhatsApp:** [+92 323 4800044](https://wa.link/a1f8au)
+- 📧 **Direct Email:** [ameerhassan1992@gmail.com](mailto:ameerhassan1992@gmail.com)
