@@ -1,6 +1,6 @@
 # Ameer Hassan 👋
 ### Senior Mobile Software Engineer & Full-Stack Architect
-**Flutter (Dart) &bull; Native Android (Kotlin/Java) &bull; Node.js Microservices &bull; Cloud Infrastructure**
+**Flutter (Dart) &bull; Native Android (Kotlin) &bull; Kotlin Multiplatform (KMP) &bull; Node.js Microservices**
 
 Lahore, Pakistan &bull; Available for Remote & On-Site Global Engagements
 
@@ -57,6 +57,11 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 > Enterprise anti-fraud field workforce verification system with mock-location defense and geodesic geofencing.
 * **Key Features:** Multi-vector mock location detector (API 31+ `isMock`, teleportation velocity filter, Null Island filter), geodesic Haversine boundary validator, offline Room DB persistence, StateFlow reactive architecture, and modern Jetpack Compose Material 3 dark dashboard with live attack simulation controls.
 * **Stack:** Kotlin, Jetpack Compose, Coroutines, StateFlow, Room Database, Material 3, JUnit 4, GitHub Actions CI.
+
+### 5. [🔄 NovaSync KMP Core (Kotlin Multiplatform Sync Engine)](https://github.com/ameerhassan/novasync-kmp-core)
+> Enterprise cross-platform offline-first data synchronization engine for Android, iOS & JVM.
+* **Key Features:** Shared business logic compiled to native Android AARs and Apple iOS Frameworks. Ktor 3.x asynchronous HTTP engine, multiplatform `expect`/`actual` platform & SQLite driver contracts, algorithmic vector conflict resolver (Server-Wins, Client-Wins, Latest-Timestamp-Wins), and reactive `NovaSyncCoordinator` StateFlow store.
+* **Stack:** Kotlin 2.0 (KMP), Ktor 3.x, Kotlinx Coroutines, Kotlinx Serialization, iOS & Android Targets, GitHub Actions CI.
 
 ---
 
