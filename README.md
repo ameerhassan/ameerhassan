@@ -43,7 +43,7 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 * **Key Features:** Strict Clean Architecture (Presentation, Domain, Data, Core), BLoC 9.x state management, thread-safe Dio `QueuedInterceptor` for automatic 401 token refresh queues, encrypted offline persistence with background retry, and comprehensive unit tests with `bloc_test`.
 * **Stack:** Flutter 3.x, Dart 3.x, BLoC, Dio, GetIt, Mocktail, GitHub Actions CI.
 
-### 2. [📦 DistroHub Suite (Enterprise Full-Stack Distribution Portal)](https://github.com/ameerhassan/fullstack-flutter-nodejs-portal)
+### 2. [📦 DistroHub Suite (Enterprise Full-Stack Distribution Portal)](https://github.com/ameerhassan/distrohub-suite)
 > Full-stack mobile distribution and merchant ordering platform connecting cross-platform mobile clients with scalable Node.js microservices.
 * **Key Features:** Monorepo architecture containing Flutter mobile client and Node.js/Express backend API. Dual-token JWT security with session rotation, offline batch order synchronization, Stripe webhook event listener, real-time Firebase FCM push notifications, and 1-command Docker Compose deployment.
 * **Stack:** Flutter, Node.js 20, Express, Docker Compose, Firebase FCM, Stripe, Dio.
