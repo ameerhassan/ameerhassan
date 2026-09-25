@@ -63,6 +63,11 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 * **Key Features:** Shared business logic compiled to native Android AARs and Apple iOS Frameworks. Ktor 3.x asynchronous HTTP engine, multiplatform `expect`/`actual` platform & SQLite driver contracts, algorithmic vector conflict resolver (Server-Wins, Client-Wins, Latest-Timestamp-Wins), and reactive `NovaSyncCoordinator` StateFlow store.
 * **Stack:** Kotlin 2.0 (KMP), Ktor 3.x, Kotlinx Coroutines, Kotlinx Serialization, iOS & Android Targets, GitHub Actions CI.
 
+### 6. [📱 Flutter Clean MVVM Template (Enterprise Starter Blueprint)](https://github.com/ameerhassan/flutter-clean-mvvm-template)
+> Production-grade cloneable starter template with strict Clean Architecture and MVVM pattern.
+* **Key Features:** Decoupled 4-tier layer structure (Core, Domain, Data, Presentation), pure Dart domain usecases, ChangeNotifier ViewModel state management with typed `ViewState`, resilient Dio exception-to-failure translation, offline caching fallback, and 100% passing unit tests.
+* **Stack:** Flutter 3.x, Dart 3.x, Provider/ChangeNotifier, Dio, GetIt, Mocktail, GitHub Actions CI.
+
 ---
 
 ## 💼 Industry Experience Snapshot
