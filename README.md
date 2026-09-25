@@ -68,6 +68,11 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 * **Key Features:** Decoupled 4-tier layer structure (Core, Domain, Data, Presentation), pure Dart domain usecases, ChangeNotifier ViewModel state management with typed `ViewState`, resilient Dio exception-to-failure translation, offline caching fallback, and 100% passing unit tests.
 * **Stack:** Flutter 3.x, Dart 3.x, Provider/ChangeNotifier, Dio, GetIt, Mocktail, GitHub Actions CI.
 
+### 7. [🤖 Android Clean MVVM Template (Jetpack Compose & MAD Architecture)](https://github.com/ameerhassan/android-clean-mvvm-template)
+> Production-grade Native Android Kotlin boilerplate engineered with Jetpack Compose Material 3 and Modern Android Development (MAD) standards.
+* **Key Features:** Pure Kotlin domain layer decoupled from Android framework, Unidirectional Data Flow (UDF) with `StateFlow<UiState>` and `SharedFlow<UiEffect>`, offline-first caching via Room Database and Retrofit 2 (`NetworkBoundResource`), network connectivity observer, and JUnit/Coroutines unit tests.
+* **Stack:** Kotlin, Jetpack Compose Material 3, Coroutines Flow, Room DB, Retrofit 2, JUnit 4, GitHub Actions CI.
+
 ---
 
 ## 💼 Industry Experience Snapshot
