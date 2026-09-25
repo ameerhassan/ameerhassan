@@ -78,7 +78,7 @@ Senior Mobile Software Engineer with **9+ years of commercial development experi
 ## 💼 Industry Experience Snapshot
 
 * **Senior Software Engineer (Mobile Architecture)** &bull; *Mezan Beverages* (12/2025 – Present)  
-  *Architecting nationwide sales & distribution applications (NLW, ORRBIS, DistroEase) for 500+ daily active sales officers with ML Kit facial biometric anti-spoofing and offline sync.*
+  *Architecting nationwide sales & distribution applications (NLW, ORRBIS, DistroEase) for 3000+ daily active sales officers with ML Kit facial biometric anti-spoofing and offline sync.*
 * **Lead Full-Stack Mobile & Cloud Solutions Architect** &bull; *Grambix* (2024 – 2026)  
   *Delivered cross-platform Flutter application with Node.js/Express backend microservices on AWS EC2, RevenueCat subscription billing, and dual app store deployment.*
 * **Senior Flutter Developer (Enterprise & IoT)** &bull; *Evyol Group* (09/2023 – 12/2025)  
